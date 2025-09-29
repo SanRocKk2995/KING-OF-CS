@@ -1,1 +1,1 @@
-# KING-OF-CS
+# pip install -r requirements.txt
